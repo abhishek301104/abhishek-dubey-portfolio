@@ -21,7 +21,7 @@ This version uses plain HTML, CSS, and JavaScript, so it does not require a buil
 ## Personal links included
 
 - GitHub: https://github.com/abhishek301104
-- LinkedIn: https://linkedin.com/in/abhishek
+- LinkedIn: https://www.linkedin.com/in/abhishek-dubey-277459249
 - Email: abhishekdubey3011@gmail.com
 - Resume download: `assets/Abhishek_Dubey_Resume.pdf`
 
